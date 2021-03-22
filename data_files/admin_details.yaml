@@ -1,0 +1,21 @@
+admin_dialog:
+  title: "Choose option to perform below operation :-"
+  options:
+    - "1. Add categories \n"
+    - "2. Add products \n"
+    - "3. Go to categories section \n"
+    - "4. Go to products section \n"
+    - "5. Go to cart \n"
+    - "6. To exit \n"
+user_dialog:
+  title: "Choose your section :-"
+  options:
+    - "1. Go to categories \n"
+    - "2. Go to cart \n"
+    - "3. To exit \n"
+cart_details:
+  title: "Please select below option :"
+  options:
+    - "1. To buy \n"
+    - "2. To remove product from cart \n"
+    - "3. Back \n"
